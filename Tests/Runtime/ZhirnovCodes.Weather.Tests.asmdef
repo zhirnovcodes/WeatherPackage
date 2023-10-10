@@ -1,0 +1,19 @@
+{
+    "name": "ZhirnovCodes.Weather.Tests",
+    "rootNamespace": "UNITY_INCLUDE_TESTS",
+    "references": [
+        "GUID:c8dad5399b592724eb1996b359d3f180"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "NSubstitute.dll",
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "com.zhirnov.codes.weather",
+  "version": "1.0.0",
+  "displayName": "Weather Package",
+  "description": "Package for getting weather forcast info from different weather services'",
+  "unity": "2021.3",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+ "keywords": [
+  ],
+  "author": {
+    "name": "Ivan Zhirnov",
+    "email": "zhirnov.works@gmail.com",
+    "url": "https://github.com/zhirnovcodes"
+  }
+}
