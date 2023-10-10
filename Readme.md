@@ -1,6 +1,7 @@
 Installation
 
 ATTENTION!!! Install NSubstitute package before installing WeatherPackage. Installing link: https://github.com/Thundernerd/Unity3D-NSubstitute.git
+
 To use this package in your Unity project, follow these steps:
 
 Download the latest release of the package from the GitHub releases page.
